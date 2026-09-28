@@ -4,7 +4,7 @@ st.set_page_config(
     page_title="Trading App", page_icon=":chart_with_upwards_trend:", layout="wide"
 )
 
-st.title('Tradin Guide App :bar_chart:')
+st.title('Trading Guide App :bar_chart:')
 st.header('We provide a Greatest platform for you to collect all information prior to investing in Stocks')
 st.image('apps.jpg',use_container_width=True)
 st.markdown('### We provide the following Services:')
